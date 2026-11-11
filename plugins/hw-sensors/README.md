@@ -7,7 +7,12 @@
 
 **小岛（紧凑态）**：图标 + 名称 + 一个最关键的值，例如 `52°C · 14W`。
 
+<img width="584" height="253" alt="预览-卡片状态" src="https://github.com/user-attachments/assets/ad8171d2-0a6f-4256-8f37-e15b6402f69a" />
+
 **大岛（展开态）**：四行明细，每行都能单独开关。
+
+<img width="947" height="701" alt="预览-卡片展开" src="https://github.com/user-attachments/assets/f782c998-1a06-4731-9a34-f6220447c823" />
+
 
 | 硬件 | 内容 | 图标 |
 | --- | --- | --- |
@@ -49,6 +54,8 @@
 - **整机功耗基线** —— 0~200W，默认 8W
 - **采样间隔** —— 500~30000 毫秒，默认 2000
 - **立即刷新 / 检测数据源** —— 后者会把每个数据源的实际读数打到设置页上，方便排查
+
+<img width="1712" height="1058" alt="预览-设置面板" src="https://github.com/user-attachments/assets/254d528f-adc9-4f3a-b8c3-24a390a17005" />
 
 ## 安装
 
